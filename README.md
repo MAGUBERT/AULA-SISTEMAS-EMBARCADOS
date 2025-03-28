@@ -74,6 +74,46 @@ Esse tipo de montagem é bastante comum em experimentos e projetos com microcont
 
 ![image](https://github.com/user-attachments/assets/5c67de9e-ce02-4011-932f-4e35c0f98dde)
 
+🔌 1. Objetivo do circuito
+O objetivo principal desse circuito é converter uma tensão alternada (AC) em uma tensão contínua (DC) estabilizada em 5 volts
+
+🧩 2. Componentes principais e suas funções
+
+🔷 J1 – Conector de Entrada
+É o ponto onde você conecta a tensão AC vinda de um transformador.
+
+🔷 BR1 – Ponte Retificadora
+Converte a tensão alternada (AC) em contínua pulsante (DC).
+
+🔷 C1 (1µF) – Capacitor Eletrolítico
+Realiza a filtragem inicial da tensão retificada.
+
+🔷 C2 e C3 (22nF) – Capacitores de Desacoplamento
+Filtram ruídos de alta frequência no circuito.
+
+🔷 U1 – Regulador de Tensão 7805
+Regula a tensão de entrada para uma saída constante de 5V.
+
+🔷 R1 – Resistor de 220 ohms
+Limita a corrente que passa pelo LED.
+
+🔷 D1 – LED Vermelho
+Indicador visual de funcionamento. Quando aceso, mostra que a saída de 5V está presente.
+
+🔷 J2 – Conector de Saída
+É por onde você conecta a carga que será alimentada com 5V.
+
+🛠️ 3. Placa de circuito impresso (layout)
+Nas imagens seguintes, é possível ver:
+
+O layout da PCB tem como medidas de 50mm x 30mm.
+
+A visualização 3D mostra o projeto finalizado.
+
+Trilha da parte de baixo da placa conectando todos os pontos corretamente.
+
+📌 Resumo
+Este é um projeto de fonte de alimentação linear regulada com 5V de saída, ideal para bancadas de testes, projetos com Arduino ou qualquer outro circuito de baixa potência que precise de 5V.
 
 
 
