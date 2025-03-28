@@ -23,6 +23,8 @@ Limita a corrente elétrica que passa pelo LED, protegendo-o contra sobrecarga.
 LED
 Serve como indicador visual de que o circuito está funcionando corretamente.
 
+![image](https://github.com/user-attachments/assets/8214763b-59b6-4e4a-b4b5-5511116c8d0a)
+
 Esse é um circuito simples e muito utilizado como fonte de alimentação regulada para dispositivos eletrônicos que operam com tensão contínua de 5V.
 
 Explicação dos Componentes na Protoboard:
@@ -38,6 +40,9 @@ Resistores: Utilizados para limitar corrente ou como divisores de tensão.
 
 LEDs: Indicadores de funcionamento do circuito.
 
+![image](https://github.com/user-attachments/assets/030e3cd1-f480-4333-964b-53ac1b434d7d)
+
+
 Processo de Funcionamento:
 Transformação de Tensão: O transformador converte a alta tensão da rede elétrica em uma tensão AC reduzida, entre 9V e 12V, por exemplo.
 
@@ -48,6 +53,8 @@ Filtragem: Um capacitor eletrolítico suaviza essa tensão, tornando-a mais cont
 Regulação: Caso exista um regulador de tensão (como o 7805), ele estabiliza a saída exatamente em 5V.
 
 Medição: Um multímetro digital, ajustado para medir tensão contínua (DC), mostra o valor da saída. Por exemplo, uma leitura de 7.5V indica que o circuito está funcionando corretamente após transformação, retificação e filtragem, mesmo sem regulador.
+
+![image](https://github.com/user-attachments/assets/62cdb55b-4e87-4e8c-8180-41212d3932c5)
 
 Observações Finais:
 A pessoa que aparece na imagem pode estar ajustando o circuito ou verificando o funcionamento dos componentes.
