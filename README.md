@@ -1,8 +1,6 @@
 # AULA-SISTEMAS-EMBARCADOS
  Aula RAFA
 
-![image](https://github.com/user-attachments/assets/9af01afd-8ff2-44d5-8ea7-94446915280d)
-
 O esquema apresentado no Proteus representa uma fonte de alimentação com retificação de onda completa, filtragem e regulação de tensão. Abaixo, está a descrição dos componentes e suas respectivas funções:
 
 TR1 – Transformador
@@ -22,6 +20,8 @@ Limita a corrente elétrica que passa pelo LED, protegendo-o contra sobrecarga.
 
 LED
 Serve como indicador visual de que o circuito está funcionando corretamente.
+
+![image](https://github.com/user-attachments/assets/9af01afd-8ff2-44d5-8ea7-94446915280d)
 
 ![image](https://github.com/user-attachments/assets/8214763b-59b6-4e4a-b4b5-5511116c8d0a)
 
