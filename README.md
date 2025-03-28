@@ -57,11 +57,24 @@ Medição: Um multímetro digital, ajustado para medir tensão contínua (DC), m
 ![image](https://github.com/user-attachments/assets/62cdb55b-4e87-4e8c-8180-41212d3932c5)
 
 Observações Finais:
-A pessoa que aparece na imagem pode estar ajustando o circuito ou verificando o funcionamento dos componentes.
 
 É essencial seguir medidas de segurança ao lidar com tensões da rede elétrica.
 
 A leitura de tensão depende da configuração correta do multímetro e de sua qualidade.
 
 Esse tipo de montagem é bastante comum em experimentos e projetos com microcontroladores ou outros circuitos eletrônicos que necessitam de uma fonte de energia DC confiável e estável.
+
+![image](https://github.com/user-attachments/assets/38ffcf67-ca2a-454f-8ff1-1887750a7b0d)
+
+![image](https://github.com/user-attachments/assets/db02ac55-d359-4511-b658-dd0114049802)
+
+![image](https://github.com/user-attachments/assets/d918947e-0271-48e9-b1c7-0121a6e9cfaa)
+
+![image](https://github.com/user-attachments/assets/4a046c45-acc4-4f77-8c8e-74bca0608386)
+
+![image](https://github.com/user-attachments/assets/5c67de9e-ce02-4011-932f-4e35c0f98dde)
+
+
+
+
 
